@@ -1,7 +1,7 @@
 # HumanResourcePortfolioProject
 Human Resources Portfolio Project - Excel and Tableau
 
-[Tableau Data Viz](./Tableau-Viz-cap.PNG)
+![Tableau Data Viz](./Tableau-Viz-cap.PNG)
 
 Project Goals:
 - Connect Tableau to an Excel dataset.
